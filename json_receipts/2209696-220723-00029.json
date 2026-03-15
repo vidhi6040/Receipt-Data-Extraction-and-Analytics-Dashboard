@@ -1,0 +1,20 @@
+{
+    "shop_name": "Wake Up with Coffee",
+    "abn_num": "2209696",
+    "date": "2022-07-23",
+    "month": 7,
+    "year": 2022,
+    "terminal_num": "005",
+    "cashier_name": "Scott",
+    "customer_name": null,
+    "items": [],
+    "subtotal": 18.0,
+    "gst": 1.64,
+    "total": 18.0,
+    "payments": [
+        {
+            "payment_mode": "Credit Card",
+            "amount": 18.0
+        }
+    ]
+}

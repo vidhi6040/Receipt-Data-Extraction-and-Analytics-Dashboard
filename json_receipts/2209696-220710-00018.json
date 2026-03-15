@@ -1,0 +1,27 @@
+{
+    "shop_name": "Wake Up with Coffee",
+    "abn_num": "2209696",
+    "date": "2022-07-10",
+    "month": 7,
+    "year": 2022,
+    "terminal_num": "004",
+    "cashier_name": "Leslie",
+    "customer_name": null,
+    "items": [
+        {
+            "product_name": "Cappuccino",
+            "quantity": 3,
+            "unit_price": 5.0,
+            "total_price": 15.0
+        }
+    ],
+    "subtotal": 21.5,
+    "gst": 1.95,
+    "total": 21.5,
+    "payments": [
+        {
+            "payment_mode": "EFTPOS",
+            "amount": 21.5
+        }
+    ]
+}

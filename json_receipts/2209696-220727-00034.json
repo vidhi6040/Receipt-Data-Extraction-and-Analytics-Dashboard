@@ -1,0 +1,33 @@
+{
+    "shop_name": "Wake Up with Coffee",
+    "abn_num": "2209696",
+    "date": "2022-07-27",
+    "month": 7,
+    "year": 2022,
+    "terminal_num": "003",
+    "cashier_name": "Scott",
+    "customer_name": "Justin",
+    "items": [
+        {
+            "product_name": "Eggs benny",
+            "quantity": 2,
+            "unit_price": 18.0,
+            "total_price": 36.0
+        },
+        {
+            "product_name": "Cappuccino",
+            "quantity": 2,
+            "unit_price": 5.0,
+            "total_price": 10.0
+        }
+    ],
+    "subtotal": 64.0,
+    "gst": 5.82,
+    "total": 64.0,
+    "payments": [
+        {
+            "payment_mode": "EFTPOS",
+            "amount": 32.0
+        }
+    ]
+}

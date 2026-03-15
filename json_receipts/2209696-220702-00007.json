@@ -1,0 +1,33 @@
+{
+    "shop_name": "Wake Up with Coffee",
+    "abn_num": "2209696",
+    "date": "2022-07-02",
+    "month": 7,
+    "year": 2022,
+    "terminal_num": "005",
+    "cashier_name": "Leslie",
+    "customer_name": "Leslie",
+    "items": [
+        {
+            "product_name": "Cappuccino",
+            "quantity": 3,
+            "unit_price": 5.0,
+            "total_price": 15.0
+        },
+        {
+            "product_name": "English muffin",
+            "quantity": 3,
+            "unit_price": 6.0,
+            "total_price": 18.0
+        }
+    ],
+    "subtotal": 33.0,
+    "gst": 3.0,
+    "total": 33.0,
+    "payments": [
+        {
+            "payment_mode": "Loyalty Points",
+            "amount": 7.2
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "shop_name": "Wake Up with Coffee",
+    "abn_num": "2209696",
+    "date": "2022-07-22",
+    "month": 7,
+    "year": 2022,
+    "terminal_num": "001",
+    "cashier_name": "Leslie",
+    "customer_name": "Ricardo",
+    "items": [
+        {
+            "product_name": "Ham bagel",
+            "quantity": 3,
+            "unit_price": 10.0,
+            "total_price": 30.0
+        },
+        {
+            "product_name": "Ham bagel",
+            "quantity": 3,
+            "unit_price": 10.0,
+            "total_price": 30.0
+        },
+        {
+            "product_name": "Cappuccino",
+            "quantity": 3,
+            "unit_price": 5.0,
+            "total_price": 15.0
+        }
+    ],
+    "subtotal": 75.0,
+    "gst": 6.82,
+    "total": 75.0,
+    "payments": [
+        {
+            "payment_mode": "Debit Card",
+            "amount": 75.0
+        }
+    ]
+}

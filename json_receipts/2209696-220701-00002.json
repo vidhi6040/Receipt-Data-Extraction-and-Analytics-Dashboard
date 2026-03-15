@@ -1,0 +1,27 @@
+{
+    "shop_name": "Wake Up with Coffee",
+    "abn_num": "2209696",
+    "date": "2022-07-01",
+    "month": 7,
+    "year": 2022,
+    "terminal_num": "005",
+    "cashier_name": "Leslie",
+    "customer_name": null,
+    "items": [
+        {
+            "product_name": "Eggs benny",
+            "quantity": 3,
+            "unit_price": 18.0,
+            "total_price": 54.0
+        }
+    ],
+    "subtotal": 60.5,
+    "gst": 5.5,
+    "total": 60.5,
+    "payments": [
+        {
+            "payment_mode": "Gift Card",
+            "amount": 60.5
+        }
+    ]
+}

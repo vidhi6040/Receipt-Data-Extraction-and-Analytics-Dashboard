@@ -1,0 +1,27 @@
+{
+    "shop_name": "Wake Up with Coffee",
+    "abn_num": "2209696",
+    "date": "2022-08-02",
+    "month": 8,
+    "year": 2022,
+    "terminal_num": "004",
+    "cashier_name": "Leslie",
+    "customer_name": "Ashley",
+    "items": [
+        {
+            "product_name": "Mocha",
+            "quantity": 3,
+            "unit_price": 3.5,
+            "total_price": 10.5
+        }
+    ],
+    "subtotal": 28.5,
+    "gst": 2.59,
+    "total": 28.5,
+    "payments": [
+        {
+            "payment_mode": "Loyalty Points",
+            "amount": 1.15
+        }
+    ]
+}

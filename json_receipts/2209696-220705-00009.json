@@ -1,0 +1,27 @@
+{
+    "shop_name": "Wake Up with Coffee",
+    "abn_num": "2209696",
+    "date": "2022-07-05",
+    "month": 7,
+    "year": 2022,
+    "terminal_num": "004",
+    "cashier_name": "Leslie",
+    "customer_name": null,
+    "items": [
+        {
+            "product_name": "Ham toastie",
+            "quantity": 3,
+            "unit_price": 6.5,
+            "total_price": 19.5
+        }
+    ],
+    "subtotal": 29.5,
+    "gst": 2.68,
+    "total": 29.5,
+    "payments": [
+        {
+            "payment_mode": "BPAY",
+            "amount": 29.5
+        }
+    ]
+}

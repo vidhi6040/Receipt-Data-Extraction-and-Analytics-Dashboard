@@ -1,0 +1,27 @@
+{
+    "shop_name": "Wake Up with Coffee",
+    "abn_num": "2209696",
+    "date": "2022-07-08",
+    "month": 7,
+    "year": 2022,
+    "terminal_num": "001",
+    "cashier_name": "Scott",
+    "customer_name": null,
+    "items": [
+        {
+            "product_name": "English muffin",
+            "quantity": 2,
+            "unit_price": 6.0,
+            "total_price": 12.0
+        }
+    ],
+    "subtotal": 30.0,
+    "gst": 2.73,
+    "total": 30.0,
+    "payments": [
+        {
+            "payment_mode": "Debit Card",
+            "amount": 30.0
+        }
+    ]
+}

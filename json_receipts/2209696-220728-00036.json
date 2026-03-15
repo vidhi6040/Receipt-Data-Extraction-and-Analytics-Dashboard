@@ -1,0 +1,39 @@
+{
+    "shop_name": "Wake Up with Coffee",
+    "abn_num": "2209696",
+    "date": "2022-07-28",
+    "month": 7,
+    "year": 2022,
+    "terminal_num": "002",
+    "cashier_name": "Scott",
+    "customer_name": null,
+    "items": [
+        {
+            "product_name": "Cappuccino",
+            "quantity": 2,
+            "unit_price": 5.0,
+            "total_price": 10.0
+        },
+        {
+            "product_name": "Ham toastie",
+            "quantity": 3,
+            "unit_price": 6.5,
+            "total_price": 19.5
+        },
+        {
+            "product_name": "Mocha",
+            "quantity": 3,
+            "unit_price": 3.5,
+            "total_price": 10.5
+        }
+    ],
+    "subtotal": 40.0,
+    "gst": 3.64,
+    "total": 40.0,
+    "payments": [
+        {
+            "payment_mode": "BPAY",
+            "amount": 40.0
+        }
+    ]
+}

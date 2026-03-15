@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            02/07/2022            
+
+Terminal 005
+Cashier Leslie
+Customer Isaac
+
+Ham bagel         2          10.00
+                             20.00
+Mocha             1           3.50
+Ham toastie       3           6.50
+                             19.50
+English muffin    1           6.00
+
+Subtotal                     49.00
+
+GST Included                  4.45
+Total                        49.00
+
+Payments
+Cash                         42.10
+Gift Card                     6.90
+
+     You earnt 4,900 points!      
+
+Reference 2209696:220702:00005
+
+           See you soon           
+----------------------------------

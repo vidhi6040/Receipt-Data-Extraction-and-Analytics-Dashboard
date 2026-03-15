@@ -1,0 +1,30 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            02/07/2022            
+
+Terminal 005
+Cashier Leslie
+Customer Leslie
+
+Cappuccino        3           5.00
+                             15.00
+English muffin    3           6.00
+                             18.00
+
+Subtotal                     33.00
+
+GST Included                  3.00
+Total                        33.00
+
+Payments
+Loyalty Points                7.20
+EFTPOS                       25.80
+
+     You earnt 2,580 points!      
+
+Reference 2209696:220702:00007
+
+              Cheers              
+----------------------------------

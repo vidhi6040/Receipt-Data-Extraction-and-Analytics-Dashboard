@@ -1,0 +1,25 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            10/07/2022            
+
+Terminal 004
+Cashier Leslie
+
+Cappuccino        3           5.00
+                             15.00
+Ham toastie       1           6.50
+
+Subtotal                     21.50
+
+GST Included                  1.95
+Total                        21.50
+
+Payments
+EFTPOS                       21.50
+
+Reference 2209696:220710:00018
+
+           Stay healthy           
+----------------------------------

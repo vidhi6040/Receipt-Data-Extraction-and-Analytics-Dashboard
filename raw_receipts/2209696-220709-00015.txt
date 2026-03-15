@@ -1,0 +1,30 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            09/07/2022            
+
+Terminal 004
+Cashier Leslie
+
+Ham bagel         2          10.00
+                             20.00
+Mocha             2           3.50
+                              7.00
+English muffin    3           6.00
+                             18.00
+Eggs benny        1          18.00
+
+Subtotal                     63.00
+
+GST Included                  5.73
+Total                        63.00
+
+Payments
+EFTPOS                       31.50
+BPAY                         31.50
+
+Reference 2209696:220709:00015
+
+              Cheers              
+----------------------------------

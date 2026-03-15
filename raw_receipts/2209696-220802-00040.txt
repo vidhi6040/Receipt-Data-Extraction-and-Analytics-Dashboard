@@ -1,0 +1,29 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            02/08/2022            
+
+Terminal 004
+Cashier Leslie
+Customer Ashley
+
+Eggs benny        1          18.00
+Mocha             3           3.50
+                             10.50
+
+Subtotal                     28.50
+
+GST Included                  2.59
+Total                        28.50
+
+Payments
+Loyalty Points                1.15
+BPAY                         27.35
+
+     You earnt 2,735 points!      
+
+Reference 2209696:220802:00040
+
+            Thank you             
+----------------------------------

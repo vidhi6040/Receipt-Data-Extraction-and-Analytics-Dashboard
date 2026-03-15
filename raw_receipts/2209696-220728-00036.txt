@@ -1,0 +1,28 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            28/07/2022            
+
+Terminal 002
+Cashier Scott
+
+Cappuccino        2           5.00
+                             10.00
+Ham toastie       3           6.50
+                             19.50
+Mocha             3           3.50
+                             10.50
+
+Subtotal                     40.00
+
+GST Included                  3.64
+Total                        40.00
+
+Payments
+BPAY                         40.00
+
+Reference 2209696:220728:00036
+
+     Pleasure doing business      
+----------------------------------

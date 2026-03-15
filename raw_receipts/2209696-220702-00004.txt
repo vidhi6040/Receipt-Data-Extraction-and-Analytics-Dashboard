@@ -1,0 +1,24 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            02/07/2022            
+
+Terminal 004
+Cashier Leslie
+
+Mocha             2           3.50
+                              7.00
+
+Subtotal                      7.00
+
+GST Included                  0.64
+Total                         7.00
+
+Payments
+Debit Card                    7.00
+
+Reference 2209696:220702:00004
+
+           See you soon           
+----------------------------------

@@ -1,0 +1,27 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            20/07/2022            
+
+Terminal 005
+Cashier Leslie
+
+Mocha             3           3.50
+                             10.50
+Ham bagel         3          10.00
+                             30.00
+
+Subtotal                     40.50
+
+GST Included                  3.68
+Total                        40.50
+
+Payments
+Gift Card                    20.25
+EFTPOS                       20.25
+
+Reference 2209696:220720:00027
+
+           See you soon           
+----------------------------------

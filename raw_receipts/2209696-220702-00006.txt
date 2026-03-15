@@ -1,0 +1,33 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            02/07/2022            
+
+Terminal 005
+Cashier Scott
+Customer Isaac
+
+Cappuccino        3           5.00
+                             15.00
+Mocha             2           3.50
+                              7.00
+Eggs benny        3          18.00
+                             54.00
+Eggs benny        2          18.00
+                             36.00
+
+Subtotal                    112.00
+
+GST Included                 10.18
+Total                       112.00
+
+Payments
+EFTPOS                      112.00
+
+     You earnt 11,200 points!     
+
+Reference 2209696:220702:00006
+
+            Drive safe            
+----------------------------------

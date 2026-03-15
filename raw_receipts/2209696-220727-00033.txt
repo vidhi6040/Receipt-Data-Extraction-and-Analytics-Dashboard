@@ -1,0 +1,26 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            27/07/2022            
+
+Terminal 003
+Cashier Scott
+
+Mocha             1           3.50
+Eggs benny        2          18.00
+                             36.00
+Eggs benny        1          18.00
+
+Subtotal                     57.50
+
+GST Included                  5.23
+Total                        57.50
+
+Payments
+EFTPOS                       57.50
+
+Reference 2209696:220727:00033
+
+            Drive safe            
+----------------------------------

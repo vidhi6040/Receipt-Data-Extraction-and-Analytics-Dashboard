@@ -1,0 +1,31 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            22/07/2022            
+
+Terminal 001
+Cashier Leslie
+Customer Ricardo
+
+Ham bagel         3          10.00
+                             30.00
+Ham bagel         3          10.00
+                             30.00
+Cappuccino        3           5.00
+                             15.00
+
+Subtotal                     75.00
+
+GST Included                  6.82
+Total                        75.00
+
+Payments
+Debit Card                   75.00
+
+     You earnt 7,500 points!      
+
+Reference 2209696:220722:00028
+
+            Thank you             
+----------------------------------

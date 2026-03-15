@@ -1,0 +1,25 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            08/07/2022            
+
+Terminal 001
+Cashier Scott
+
+English muffin    2           6.00
+                             12.00
+Eggs benny        1          18.00
+
+Subtotal                     30.00
+
+GST Included                  2.73
+Total                        30.00
+
+Payments
+Debit Card                   30.00
+
+Reference 2209696:220708:00013
+
+              Cheers              
+----------------------------------

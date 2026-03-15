@@ -1,0 +1,33 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            28/07/2022            
+
+Terminal 001
+Cashier Leslie
+Customer Daniel
+
+Eggs benny        3          18.00
+                             54.00
+English muffin    2           6.00
+                             12.00
+English muffin    1           6.00
+Ham toastie       3           6.50
+                             19.50
+
+Subtotal                     91.50
+
+GST Included                  8.32
+Total                        91.50
+
+Payments
+EFTPOS                       82.35
+BPAY                          9.15
+
+     You earnt 9,150 points!      
+
+Reference 2209696:220728:00035
+
+              Cheers              
+----------------------------------

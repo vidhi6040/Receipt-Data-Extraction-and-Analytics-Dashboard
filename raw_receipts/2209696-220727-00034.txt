@@ -1,0 +1,31 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            27/07/2022            
+
+Terminal 003
+Cashier Scott
+Customer Justin
+
+Eggs benny        1          18.00
+Eggs benny        2          18.00
+                             36.00
+Cappuccino        2           5.00
+                             10.00
+
+Subtotal                     64.00
+
+GST Included                  5.82
+Total                        64.00
+
+Payments
+EFTPOS                       32.00
+Credit Card                  32.00
+
+     You earnt 6,400 points!      
+
+Reference 2209696:220727:00034
+
+           See you soon           
+----------------------------------

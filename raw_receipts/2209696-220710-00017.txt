@@ -1,0 +1,30 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            10/07/2022            
+
+Terminal 002
+Cashier Scott
+Customer Sandra
+
+Ham toastie       3           6.50
+                             19.50
+Ham bagel         1          10.00
+Ham toastie       2           6.50
+                             13.00
+
+Subtotal                     42.50
+
+GST Included                  3.86
+Total                        42.50
+
+Payments
+Credit Card                  42.50
+
+     You earnt 4,250 points!      
+
+Reference 2209696:220710:00017
+
+     Pleasure doing business      
+----------------------------------

@@ -1,0 +1,27 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            12/07/2022            
+
+Terminal 001
+Cashier Leslie
+
+Ham toastie       1           6.50
+Ham bagel         2          10.00
+                             20.00
+Mocha             2           3.50
+                              7.00
+
+Subtotal                     33.50
+
+GST Included                  3.05
+Total                        33.50
+
+Payments
+Debit Card                   33.50
+
+Reference 2209696:220712:00019
+
+            Drive safe            
+----------------------------------

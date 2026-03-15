@@ -1,0 +1,32 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            24/07/2022            
+
+Terminal 003
+Cashier Leslie
+Customer Sandra
+
+Mocha             2           3.50
+                              7.00
+Mocha             2           3.50
+                              7.00
+Mocha             2           3.50
+                              7.00
+
+Subtotal                     21.00
+
+GST Included                  1.91
+Total                        21.00
+
+Payments
+Loyalty Points                9.85
+Gift Card                    11.15
+
+     You earnt 1,115 points!      
+
+Reference 2209696:220724:00032
+
+            Thank you             
+----------------------------------

@@ -1,0 +1,25 @@
+----------------------------------
+       Wake Up with Coffee        
+          ABN 220 96 96           
+
+            29/07/2022            
+
+Terminal 003
+Cashier Leslie
+
+Cappuccino        2           5.00
+                             10.00
+
+Subtotal                     10.00
+
+GST Included                  0.91
+Total                        10.00
+
+Payments
+Cash                          7.30
+EFTPOS                        2.70
+
+Reference 2209696:220729:00038
+
+            Thank you             
+----------------------------------

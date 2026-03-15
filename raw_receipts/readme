@@ -1,1 +1,4 @@
+#Raw Receipts
 
+This folder contains sample raw receipt text files used as input for the data processing pipeline.
+The original dataset contained 15,000+ receipt files, but only a small sample is included here.

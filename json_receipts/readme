@@ -1,1 +1,4 @@
+# JSON Receipts
 
+This folder contains the processed receipt data in JSON format generated from the raw receipt files.
+These files are created using the Python ETL pipeline and are used for further data analysis and visualization.

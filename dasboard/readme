@@ -1,1 +1,8 @@
+# Sales Dashboard
 
+This folder contains the Power BI dashboard used to analyze the processed receipt data.
+
+The dashboard provides insights into:
+* Customer spending trends
+* Sales patterns
+* Product purchases
